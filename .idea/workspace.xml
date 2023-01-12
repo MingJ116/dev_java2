@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a83f018-c7d7-4766-87e1-b39fa6901c79" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/230103수업노트" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Dec29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Exam21/Arrayindex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/HintPart1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/JDBC API 이용 DB연동하기" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Network/LoginForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Network/TimeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Network/TimeClientView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Network/TimeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Network1/TalkClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Network1/TalkClientThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Network1/TalkServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Network1/TalkServerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Network2/BananaServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Network2/BananaServer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Network2/BananaServer3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Network2/KiwiServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Network2/MyCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Network2/MySonata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Network2/Protocol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Network2/ServerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Network2/TalkClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Network2/TalkClientThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Network2/TalkServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Network2/TalkServer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Network2/TalkServerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Network2/TalkServerThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Practice/ArrExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Practice/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Practice/Baesoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Practice/CountingStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Practice/Gaesoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Practice/Googudan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Practice/Googudan1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Practice/Ifexam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Practice/InstanceMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Practice/JennyExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Practice/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Practice/MjExam4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Practice/MtdOvLd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Practice/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Practice/Total.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/RandomGame/RandomGameDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/RandomGame/RandomGameLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/RandomGame/RandomGameView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/RandomGame/array/AccountSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/RandomGame/array/ButtonArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/RandomGame/array/ButtonArray_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/Thread.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/about Server.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/about Thread.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/deptSeries/DeptList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/deptSeries/DeptTable1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/deptSeries/DeptTable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/deptSeries/DeptTable3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/deptSeries/DeptTable7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/deptSeries/DeptVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/deptSeries/JTable7Dialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/deptSeries/ListDeptVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/deptSeries/ListMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/design/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/design/DuckSimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/design/FlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/design/FlyNoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/design/FlyWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/design/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/design/MuteQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/design/Quack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/design/QuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/design/Squeak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/design/WoodDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/exam/NetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/exam/Try.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/grade1221/ArrayExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/grade1221/Exam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/grade1221/Exam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/grade1221/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/grade1221/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/oracle/ChatDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/oracle/DeptList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/oracle/JDBCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/oracle/JDBCTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/oracle/ListExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/oracle/MapTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/oracle/MapTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/oracle/MapTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/oracle/MapTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/oracle/MapTest5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/oracle/Pride.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/oracle/oracle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/pastClasses/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/pastClasses/CodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/pastClasses/DeptVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/pastClasses/DeptVOMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/pastClasses/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/pastClasses/LoginView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/pastClasses/Method1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/pastClasses/Method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/pastClasses/Pride.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/pastClasses/PrideMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/pastClasses/Return1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/pastClasses/StaticExam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/pastClasses/StaticExam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/pastClasses/String1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/pastClasses/TestParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/pastClasses/Variable1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/pastClasses/Variable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/quiz1215/Quiz1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/quiz1215/Quiz11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/quiz1216/Quiz2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/quiz1216/Quiz3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/semiTest/ChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/semiTest/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/semiTest/ClientBackground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/semiTest/ClientGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/semiTest/ReadThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/semiTest/ServerBackground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/semiTest/ServerGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/semiTest/Sql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/semiTest/UserThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/semiTest/WriteThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/tables/ArrayCopy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/tables/Button1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/tables/Button2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/tables/StringCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/tables/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/tables/T1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/thread/JFrameTimeClose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/util/DBConnectionMgr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/vector/Vector1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/vector/Vector2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/vector/Vector3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/vector/Vector4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/vector/Vector5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/vector/Vector6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/vector/Vector61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/vector/Vector7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week4/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week4/Button1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week4/CalcApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week4/CarVOMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week4/DeptVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week4/DeptVOMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week4/FlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week4/List1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week4/List2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week4/Vector21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week4/VectorCRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week4/VectorCRUD2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week4/VectorCRUD3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week4/Vector에관한설명.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week5/DaemonThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week5/DaemonThreadTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week5/JFrameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week5/MainThread1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week5/MyB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week5/NormalThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week5/PriorityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week5/StopThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week5/SupNSubMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week5/TomcatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week5/URLEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week6/ChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week6/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week6/FileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week6/MapTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week6/MapTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week6/SuperMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week6/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week6/Y.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week6/ZipCodeSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week6/ZipCodeSearchView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/week6/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/네트워크 시험 12/30" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/변수종류.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch1/오늘학습내용.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KD9QVW1ZpFZKm8s65PEzAT1p3g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.fileTypes"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="8a83f018-c7d7-4766-87e1-b39fa6901c79" name="변경" comment="" />
+      <created>1673498273865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673498273865</updated>
+      <workItem from="1673498276340" duration="207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

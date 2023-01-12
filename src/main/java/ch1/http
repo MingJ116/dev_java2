@@ -1,0 +1,28 @@
+https: 시큐리티
+http 프로토콜을 이용하면 카카오 서버에 요청을 보내고 응답(토큰)을 받을수있다.
+stateless 특징을 가짐 (비 상태 프로토콜)
+URL서비스
+카카오서버와 통신
+네이버서버와 통신
+
+RESTfull API 사전 지식
+GET방식 POST방식
+================================================================
+
+http = 웹 서비스 요청과 응답을 받아올 수 있다.
+WAS (Web Application Server) - Tomcat -  포트번호 9000번
+웹서비스를 제공하기 위해, 웹서버가 필요.
+웹서비스는 요청으로 시작해서 응답으로 끝난다.
+
+요청을 하고 응답을 받아올 때 URL주소가 필요하다.
+main메소드가 필요없다.
+
+http://192.168.10.47:9000/index.html(강사님 ip주소) // 엔터치면(요청) -> 서버전달 -> 처리 -> 응답회신
+http://192.168.10.47:9000/index.html 이 정보를 객체화 해줌.
+
+URL객체
+
+서버가 클라측에 응답보내며 전달되는 상태값이 있다
+정상 : 200, 페이지 경로가 틀리면 404
+자바 예외처리 NullPointerException, ,ClassNotFoundException, ArrayIndexOutOfBoundException
+전부 500번 에러 발생 - Java Runtime Error
