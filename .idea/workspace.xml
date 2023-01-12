@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a83f018-c7d7-4766-87e1-b39fa6901c79" name="변경" comment="" />
+    <list default="true" id="8a83f018-c7d7-4766-87e1-b39fa6901c79" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch1/230103수업노트" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch1/notes/230103수업노트" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch1/Dec29" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch1/notes/Dec29" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch1/HintPart1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch1/notes/HintPart1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch1/JDBC API 이용 DB연동하기" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch1/notes/JDBC API 이용 DB연동하기" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch1/Thread.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch1/notes/Thread.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch1/about Server.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch1/notes/about Server.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch1/about Thread.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch1/notes/about Thread.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch1/http" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch1/notes/http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch1/네트워크 시험 12/30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch1/변수종류.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch1/notes/변수종류.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch1/오늘학습내용.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch1/notes/오늘학습내용.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +24,35 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1673498971" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="1" />
+                    <option name="lastUsedInstant" value="1673498889" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1673498801" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673498273865</updated>
       <workItem from="1673498276340" duration="207000" />
-      <workItem from="1673498496303" duration="306000" />
+      <workItem from="1673498496303" duration="621000" />
     </task>
     <servers />
   </component>

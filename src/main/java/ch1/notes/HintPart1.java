@@ -1,4 +1,4 @@
-package ch1;
+package ch1.notes;
 
 public class HintPart1 {
 	//선언부
